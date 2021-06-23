@@ -1,0 +1,14 @@
+{
+  "name": "@eightants/moving-bubble-chart-using-d3-js-internship-search-data-w-per",
+  "main": "9d6448ceb0340415@396.js",
+  "version": "396.0.0",
+  "homepage": "https://observablehq.com/@eightants/moving-bubble-chart-using-d3-js-internship-search-data-w-per",
+  "author": {
+    "name": "Anthony Teo",
+    "url": "https://observablehq.com/@eightants"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
